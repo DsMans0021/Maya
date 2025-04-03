@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Maya.sln"
+    "dotnet.defaultSolution": "Maya-main.sln"
 }
