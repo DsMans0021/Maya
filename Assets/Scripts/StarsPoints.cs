@@ -16,6 +16,6 @@ public class StarsPoints : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       starsText.text = "StartCount: "+ stars.ToString(); 
+       starsText.text = "  ☆ ★: "+ stars.ToString(); 
     }
 }

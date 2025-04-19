@@ -18,6 +18,6 @@ public class FallingSpikesCTRL : MonoBehaviour
 
     void Spawn()
     {
-        Instantiate(FallingSpikes, new Vector3(Random.Range(-15f, 15f), 10, 0), Quaternion.identity);
+        Instantiate(FallingSpikes, new Vector3(Random.Range(-10f, 20f), 10, 0), Quaternion.identity);
     }
 }
