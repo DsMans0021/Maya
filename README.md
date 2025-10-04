@@ -1,6 +1,6 @@
 # Maya
 
-**Maya** is a game project developed using C#, ShaderLab, HLSL, HTML, and CSS. This repository contains the source code and assets required to build and run the game.
+**Maya**  is a game project developed using C#, ShaderLab, HLSL, HTML, and CSS. This repository contains the source code and assets required to build and run the game.
 
 ## Table of Contents
 
